@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/srsmaster-gamer/srsmaster-gamer/blob/main/IMG-20210508-WA0016.jpg)
 <h1 align="center">Hi 👋, I'm Srsmaster Gamer</h1>
 <h3 align="center">A passionate Electronic Engineer from India</h3>
 
